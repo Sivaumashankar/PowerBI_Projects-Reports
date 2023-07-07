@@ -1,2 +1,2 @@
 # PowerBI-projects-reports
-this repo contains about powerbi reports/projects like dashboards
+This repo contains about power bi reports/projects like dashboards
